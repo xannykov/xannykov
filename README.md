@@ -11,7 +11,10 @@ p.s. ещё могу создать смешные (профессиональн
 ___
 
 ### Социальные сети
-<p align="left"> <a href="https://vk.com/xannykov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" /> <img src="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://t.me/xannykov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" /> <img src="https://github.com/xannykov/xannykov/blob/main/assets/LogoTg.png" width="32" height="32" /> </picture> </a> <a href="https://vk.com/xannykov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/VK%20Logo.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/xannykov/xannykov/blob/main/assets/VK%20Logo.png" /> <img src="https://github.com/xannykov/xannykov/blob/main/assets/VK%20Logo.png" width="32" height="32" /> </picture> </a></p>
+
+
+
 ### ⚡Скиллы
 
 <p align="left">
