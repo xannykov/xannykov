@@ -1,6 +1,6 @@
 ![Header](https://github.com/xannykov/xannykov/blob/main/assets/Logo.jpg)
 
-About me
+## Я начинающий веб-разработчик. Начал изучать программирование в 2021 году.
 
 Lang and Tools
 
