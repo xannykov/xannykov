@@ -1,4 +1,4 @@
-![Header](https://github.com/xannykov/xannykov/blob/main/assets/Header.jpg)
+![Header](https://github.com/xannykov/xannykov/blob/main/assets/Header.png)
 ___
 
 ### 🌞Обо мне
